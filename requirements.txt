@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+plotly
+scikit-learn
+
+pytorch
+torchvision
+torchaudio
+cpuonly
+
+skorch
