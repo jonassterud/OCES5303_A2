@@ -1,0 +1,19 @@
+name: OCES5303
+channels:
+  - conda-forge
+  - pytorch
+  - defaults
+dependencies:
+  - python=3.14
+  - notebook
+  - ipykernel
+  - numpy
+  - pandas
+  - matplotlib
+  - plotly
+  - scikit-learn
+  - pytorch
+  - torchvision
+  - torchaudio
+  - cpuonly
+  - skorch
